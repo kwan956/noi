@@ -9,10 +9,16 @@
             "image": "",
             "stations": [
                 {
-                    "name": "The Rock",
-                    "image": "https://www.123-hda.com/wp-content/uploads/2026/07/Evil-Dead-Burn-2026-300x450.png",
+                    "name": "fall 2",
+                    "image": "",
                     "url": "https://www.123-hda.com/fall-2-deadpoint"
                 }
+                {
+                    "name": "beware-boiuna",
+                    "image": "",
+                    "url": "https://www.123-hda.com/beware-boiuna"
+                }
+
             ]
         }
     ]
